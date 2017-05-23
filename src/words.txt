@@ -1,0 +1,47 @@
+Algorithm
+#
+An algorithm is a precise sequence of instructions for successfully carrying out a task. It will be written in everyday language but the steps might be capable of translation into a programming language. There might be a number of workable algorithms for a task but not all will be as efficient as the others.
+#
+Bug
+#
+A bug is an error in a program that stops it from working in the way it should.
+#
+Debug
+#
+Debugging is the process of going through a program’s code to locate and fix a problem or mistake.
+#
+Conditional
+#
+A conditional is when something happens only on condition something else happens first.
+#
+Decompose
+#
+Decomposing is when you break a problem down into sections in order to be able to solve it more easily.
+#
+Embed
+#
+If something is embedded or nested in a program it means that one piece of programming is contained within another.
+#
+Input
+#
+Input can be either the device you use to interact with a computer or an instruction in a program to key in words or numbers using one of those devices.
+#
+Language
+#
+A programming language is the name given to one of the many ways in which a computer can be given instructions in a program. Examples include C++, JavaScript, Logo, PHP, Python and Ruby.
+#
+Loop
+#
+To loop is the process of performing the same task again and again usually, but not always, for a set number of times.
+#
+Operator
+#
+An operator tells the computer what to do with inputs values and variables. (See inputs values and variables.)
+#
+Output
+#
+Output can be either the device a computer uses to give you information or the actual information itself. Output can come in many forms such as words, images movement and sound.
+#
+Parallelism
+#
+In some computer languages it is possible to make the computer perform more than one task at the same time. This is called parallelism.
