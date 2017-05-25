@@ -33,13 +33,15 @@ public class CreateWords {
         return splitText;
     }
 
-    public void FillHashMap() {
+    /**Could have done with simple list,
+    but I wanted to exercise with HashMaps*/
+    public HashMap FillHashMap() {
         List text = readLines();
         HashMap wordsAndDefinitions = new HashMap();
         for(int word = 0; word < text.size()-1; word+=2) {
             int description = word+1;
                 wordsAndDefinitions.put(text.get(word), text.get(description));
         }
-        System.out.println(wordsAndDefinitions);
+        return wordsAndDefinitions;
     }
 }
